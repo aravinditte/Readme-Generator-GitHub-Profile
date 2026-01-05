@@ -192,12 +192,12 @@ const Index = () => {
         <div className="container mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-muted-foreground">
             <FileText className="w-5 h-5" />
-            <span className="font-medium">README.gen</span>
+            <span className="font-medium">README gen</span>
             <span className="text-sm">• Built for developers</span>
           </div>
           <div className="flex items-center gap-6 text-sm text-muted-foreground">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
-              GitHub
+            <a href="https://github.com/aravinditte/Readme-Generator-GitHub-Profile" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
+              GitHub Source Code
             </a>
             <span>Made with ❤️ and TypeScript</span>
           </div>
